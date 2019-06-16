@@ -6,12 +6,12 @@ User can get the direction of  the place via google map.
 ## Features
 * Suggestion is based on distance and user rating
 * List and description of every available places
-* Places are ctagorized
+* Places are categorized
 * Get the location and direction of places via google map
 
 ## Focus Points
 * Interactive attarctive and minimalistic user interface
-* Security issues and data encritpion 
+* Security issues and data encryption 
 * Efficient and fast data rendering
 * Efficient memory management
 
